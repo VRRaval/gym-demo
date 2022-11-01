@@ -1,0 +1,26 @@
+.elementor-1204 .elementor-element.elementor-element-6aab4469:not(.elementor-motion-effects-element-type-background), .elementor-1204 .elementor-element.elementor-element-6aab4469 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("http://localhost/wordpress/elem-demo/wp-content/uploads/2022/08/page-top-bg.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-1204 .elementor-element.elementor-element-6aab4469 > .elementor-background-overlay{background-color:transparent;background-image:linear-gradient(145deg, #F65D5D 0%, #FDB07D 100%);opacity:0.87;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-1204 .elementor-element.elementor-element-6aab4469{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:70px;padding:150px 0px 50px 0px;}.elementor-1204 .elementor-element.elementor-element-7e693f95{text-align:center;}.elementor-1204 .elementor-element.elementor-element-7e693f95 .elementor-heading-title{color:#FFFFFF;font-family:"Playfair Display", Sans-serif;font-size:45px;font-weight:400;text-transform:uppercase;}.elementor-1204 .elementor-element.elementor-element-2551e3cb{text-align:center;color:#FFFFFF;font-family:"Open Sans", Sans-serif;font-size:18px;font-weight:400;}.elementor-1204 .elementor-element.elementor-element-3e59ed9{text-align:left;}.elementor-1204 .elementor-element.elementor-element-cc49840 .elementor-heading-title{color:#333333;font-family:"Playfair Display", Sans-serif;font-size:30px;font-weight:400;}.elementor-1204 .elementor-element.elementor-element-cc49840 > .elementor-widget-container{padding:0px 0px 10px 0px;}.elementor-1204 .elementor-element.elementor-element-e54404b > .elementor-element-populated{padding:0px 0px 40px 40px;}.elementor-1204 .elementor-element.elementor-element-eb150ce{text-align:left;}.elementor-1204 .elementor-element.elementor-element-eb150ce .elementor-heading-title{color:#333333;font-family:"Playfair Display SC", Sans-serif;font-size:20px;font-weight:400;}.elementor-1204 .elementor-element.elementor-element-836b504 .ekit-header-info > li{margin:0px 0px 15px 0px;padding:0px 0px 0px 25px;}.elementor-1204 .elementor-element.elementor-element-836b504 .ekit-header-info > li > a{color:#666666;font-family:"Open Sans", Sans-serif;font-size:16px;}.elementor-1204 .elementor-element.elementor-element-836b504 .ekit-header-info > li > a i{color:#F65D5D;font-size:16px;}.elementor-1204 .elementor-element.elementor-element-836b504 .ekit-header-info > li > a svg path{stroke:#F65D5D;fill:#F65D5D;}.elementor-1204 .elementor-element.elementor-element-836b504 .ekit-header-info > li > a svg{max-width:16px;height:auto;}.elementor-1204 .elementor-element.elementor-element-836b504 .ekit-header-info > li > a i, .elementor-1204 .elementor-element.elementor-element-836b504 .ekit-header-info > li > a svg{margin-right:10px;}.elementor-1204 .elementor-element.elementor-element-836b504 > .elementor-widget-container{margin:0px 0px 25px 0px;}.elementor-1204 .elementor-element.elementor-element-baede5f{text-align:left;}.elementor-1204 .elementor-element.elementor-element-baede5f .elementor-heading-title{color:#333333;font-family:"Playfair Display SC", Sans-serif;font-size:20px;font-weight:400;}.elementor-1204 .elementor-element.elementor-element-baede5f > .elementor-widget-container{margin:0px 0px 25px 0px;}@media(min-width:768px){.elementor-1204 .elementor-element.elementor-element-69031e61{width:20%;}.elementor-1204 .elementor-element.elementor-element-3f399da2{width:59.333%;}.elementor-1204 .elementor-element.elementor-element-7e4162ce{width:20%;}.elementor-1204 .elementor-element.elementor-element-feb6494{width:70%;}.elementor-1204 .elementor-element.elementor-element-e54404b{width:30%;}}/* Start custom CSS for elementskit-header-info, class: .elementor-element-836b504 */ul.ekit-header-info{
+    display: block !important;
+}
+.single-blog-abt-inst .elementor-widget-container .ekit-wid-con{
+    padding: 32px 27px 15px;
+    border-radius: 13px;
+    box-shadow: 0px 5px 6px rgb(72 105 114 / 15%);
+    transition: all 0.4s;
+}
+.single-blog-abt-inst .elementor-widget-container .ekit-wid-con:hover{
+    box-shadow: 0px 12px 32px rgb(72 105 114 / 15%);
+}/* End custom CSS */
+/* Start custom CSS for author-box, class: .elementor-element-8e134a5 */.elementor-author-box{
+    text-align: center;
+    position: relative;
+    padding: 25px 20px 10px;
+    -webkit-box-shadow: 0px 5px 6px rgb(72 105 114 / 15%);
+    box-shadow: 0px 5px 6px rgb(72 105 114 / 15%);
+    border-radius: 14px;
+    -webkit-transition: all 0.4s;
+    -o-transition: all 0.4s;
+    transition: all 0.4s;
+}
+.elementor-author-box:hover{
+    box-shadow: 0px 12px 32px rgb(72 105 114 / 15%);
+}/* End custom CSS */
